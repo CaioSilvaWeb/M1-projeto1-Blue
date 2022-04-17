@@ -5,7 +5,7 @@ let respostaSim = 0;
 //saudação
 
 const nome = prompt('Qual o seu nome? ');
-console.log(`Hoje ${nome} será entrevistado por um de nossos recrutadores para a vaga de desenvolvedor JR.`);
+console.log(`Hoje ${nome}, você será entrevistado(a) por um de nossos recrutadores para a vaga de desenvolvedor JR.`);
 
 console.log(`Ola ${nome}, seja bem vindo! Vamos iniciar a entrevista.\n`)
 
